@@ -1,0 +1,14 @@
+Research Paper:
+Gossip-Based Computation of Aggregate Information by David Kempe, Alin Dobra and Johannes Gehrke
+
+http://www.scala-lang.org/old/node/9715.html
+http://stackoverflow.com/questions/7794063/appending-an-element-to-the-end-of-a-list-in-scala 
+http://doc.akka.io/docs/akka/snapshot/scala/scheduler.html 
+http://alvinalexander.com/scala/scala-list-class-filter-method-function-examples 
+https://www.safaribooksonline.com/library/view/scala-cookbook/9781449340292/ch11s05.html
+http://doc.akka.io/docs/akka/snapshot/scala/actors.html
+http://doc.akka.io/docs/akka/2.0/scala/scheduler.html
+http://doc.akka.io/docs/akka/snapshot/scala/actors.html
+http://stackoverflow.com/questions/13847963/akka-kill-vs-stop-vs-poison-pill
+http://www.scala-lang.org/api/current/index.html#scala.collection.mutable.ListBuffer
+
